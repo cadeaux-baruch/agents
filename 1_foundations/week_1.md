@@ -1,0 +1,1 @@
+<h1 align="center"> Week 1 log by Hector Cadeaux </h1>
