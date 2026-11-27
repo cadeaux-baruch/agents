@@ -7,3 +7,4 @@ Lab two was ommited by the user due to the use of multiple API keys.
 Day 1: Hit a wall on and decided to regroup the next day.
 Day 2: Lab completed. Iam enamored with the way that tools can be called
 <h3 align="center">Lab four observations</h3>
+
