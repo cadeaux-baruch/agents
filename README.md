@@ -1,8 +1,11 @@
-## Master AI Agentic Engineering -  build autonomous AI Agents
+# Below is Ed Donner's markdown; it has been altered from it's originally presented format by the repository forker.
+### This is the repo of files created by Hector Cadeaux for the purpose of learning AI Engineering. The plan is to learn as much as possible from the course and expand my skill set.
 
-### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, Google ADK, Pydantic AI and MCP
+### Master AI Agentic Engineering -  build autonomous AI Agents
 
-![Autonomous Agent](assets/agentic.jpg)
+#### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, Google ADK, Pydantic AI and MCP
+
+![Hector Cadeaux](assets/splash.jpeg)
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
@@ -10,21 +13,16 @@ I couldn't be more excited to welcome you! This is the start of your 6 week adve
 
 ### This is the refreshed version from Summer 2026
 
-This has fully refreshed content with the latest tools, models and techniques. Answers to common questions:  
-[What changed in the upgrade?](https://edwarddonner.com/avatar?q=67)  
-[Why was there an upgrade?](https://edwarddonner.com/avatar?q=65)  
-[I was in the middle of the course - how do I upgrade my code](https://edwarddonner.com/avatar?q=66)  
 
-### Answers to the most common questions
-
-[My Cursor looks different to yours (new splash screen)](https://edwarddonner.com/avatar?q=54)  
+#### Answers to the most common questions
+ 
 [Can I use Gemini or free models instead of OpenAI Yes!](https://edwarddonner.com/avatar?q=8)  
 [Where are the course resources](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)   
 [How does this course fit in with your others?](https://edwarddonner.com/curriculum)  
 [Can I take this course with no programming background?](https://edwarddonner.com/avatar?q=2)  
 [What job can I get after taking this course?](https://edwarddonner.com/avatar?q=3)  
 
-### Before you begin
+#### Before you begin
 
 I'm here to help you be most successful! Please do reach out if I can help, either in the platform or by emailing me direct (ed@edwarddonner.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
 https://www.linkedin.com/in/eddonner/  
@@ -44,9 +42,8 @@ Any problems, please do contact me.
 
 ### Super useful resources
 
-- The course [resources](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/) with videos
-- Many essential guides in the [guides](guides/01_intro.ipynb) section
-- My [Avatar](https://edwarddonner.com/avatar) that can answer all common questions
+- The course [resources](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
+- My [twin](https://one-5twin.onrender.com) can answer common questions about me and my professional journey.
 
 ### API costs - please read me!
 
@@ -56,6 +53,5 @@ Details are [here](guides/09_ai_apis_and_ollama.ipynb).
 
 Be sure to monitor your API costs to ensure you are totally happy with any spend. For OpenAI, the dashboard is [here](https://platform.openai.com/usage).
 
-### ABOVE ALL ELSE -
 
-Be sure to have fun with the course! You could not have picked a better time to be learning about Agentic AI. I hope you enjoy every single minute! And if you get stuck at any point - [contact me](https://www.linkedin.com/in/eddonner/).
+Be sure to have fun with the course! You could not have picked a better time to be learning about Agentic AI. I hope you enjoy every single minute! And if you get stuck at any point - [contact me](https://www.linkedin.com/in/hector-cadeaux/).
